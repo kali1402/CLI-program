@@ -1,2 +1,2 @@
 # CLI-program
-> zz
+>>> zz
